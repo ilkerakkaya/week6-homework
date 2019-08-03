@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light|Work+Sans&display=swap');
+
+body{
+
+    margin: 0;
+    font-family: 'Shadows Into Light', cursive, Work Sans, sans-serif;
+    background: url(./images/backgroundimg.jpg);
+}
+
+h1{
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Beth Ellen, cursive;
+}
+
+header {
+
+    position: fixed;
+    left: 0;
+    top: 10%;
+    box-shadow: 3px, 4px, 10px, 10px;
+    color: beige;
+    width: 20%;
+    height: 70%;
+    text-align: center;
+    font-size: 2.5em;
+
+
+}
+
+
+.enBuyukDiv {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.mainDiv{
+    max-width: 33%;
+    text-align: center;
+}
+
+
+ul{
+    padding: 0;
+    list-style: none;
+}
+
+img{
+    width: 100%;
+    max-width: 500px;;
+}
+
+
+
+ ul{
+
+    
+    padding: 30px;
+    background-color: azure;
+    border-radius: 10%;
+    text-align: left;
+    
+
+
+}
+
+
